@@ -25,4 +25,3 @@ class ProfileStatus(models.Model):
 
     def __str__(self):
         return str(self.user_profile)
-    
